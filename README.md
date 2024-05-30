@@ -9,7 +9,7 @@ Before transitioning to full-time software development, I spent many years as a 
 I currently build and maintain websites for several small businesses and non-profits, and volunteer with [Chi Hack Night](https://github.com/chihacknight). 
 
 ### Technologies Used
-Python | JavaScript | TypeScript | HTML/CSS
+Python | JavaScript | TypeScript | HTML/CSS | PostgreSQL
 
 React.js | Next.js | Node | Express | Django | Flask
 
